@@ -2,7 +2,6 @@
 title: Time to add your own content
 description: Remove all of the .md-files in the /content folder and go at it!
 ---
-
 ## Sit liquentibus sinu verbis et spatiarer laedar
 
 Lorem markdownum viros voce nostri tumulandus contegat tua **prior** umbra
@@ -24,7 +23,7 @@ fuit ulla Thestorides. Suas adveniens vituli hi quem quaecumque Argos, frustra
 solacia: inpensior munere quae. Vivacisque **nos has** elusaque Aeaciden altum
 oris ille convicia castique.
 
-```js{1,4}[posts.vue]
+```js{1,4}\[posts.vue]
 formatDate(dateString) {
   const date = new Date(dateString)
   return date.toLocaleDateString(process.env.lang) || ''
@@ -64,3 +63,7 @@ Ad celeri est et Tremorque reliquerat fruges inplicuit. Dictis libratum
 oscula inornatos quam sole erat in ignavus comis tibi. Latoius cernentem es hunc
 ferunt Ionio nec saucia cupiunt erat. Et petiit gesserat iudicium libido
 elususque fugere armiferos placet, illae.
+
+
+
+![](/img/ew3cgeeu8aallel.jpg)
